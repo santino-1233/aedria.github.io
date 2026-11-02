@@ -1,0 +1,8 @@
+{
+  "name": "AEDRIA – Digital Studio",
+  "description": "Estudio digital de diseño y desarrollo web de alta gama. Transformamos ideas en experiencias digitales memorables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,1011 @@
+
+Quiero que trabajes como un equipo profesional compuesto por:
+
+- Un director creativo especializado en branding digital.
+- Un diseñador UI/UX senior.
+- Un desarrollador frontend senior.
+- Un especialista en animaciones e interacciones web.
+- Un especialista en SEO, accesibilidad y optimización de rendimiento.
+
+Tu tarea es diseñar y desarrollar el sitio web oficial de mi agencia digital llamada AEDRIA.
+
+IMPORTANTE: No quiero una web genérica, una plantilla prediseñada ni una copia de otras agencias. Quiero una web con una identidad visual propia, un concepto creativo definido y una experiencia de navegación memorable.
+
+No te limites a darme recomendaciones o ejemplos. Quiero que desarrolles el proyecto directamente en los archivos.
+
+==================================================
+1. IDENTIDAD DE MARCA
+==================================================
+
+Nombre:
+AEDRIA
+
+Descriptor:
+Digital Studio
+
+Actividad:
+Agencia de diseño y desarrollo web.
+
+Servicios principales:
+- Diseño y desarrollo de páginas web.
+- Landing pages.
+- Tiendas online / E-commerce.
+- Diseño de experiencias digitales.
+- Desarrollo de sitios personalizados para negocios y marcas.
+
+Público objetivo:
+- Emprendedores.
+- Comercios y negocios locales.
+- Empresas.
+- Profesionales independientes.
+- Creadores de contenido.
+- Marcas personales.
+- Marcas que quieran mejorar su presencia digital.
+
+Personalidad de marca:
+
+AEDRIA debe transmitir:
+- Creatividad.
+- Innovación.
+- Tecnología.
+- Elegancia.
+- Profesionalismo.
+- Atención al detalle.
+- Exclusividad.
+- Confianza.
+
+No quiero que parezca una empresa informática tradicional.
+Tampoco quiero una agencia excesivamente corporativa.
+
+Quiero que transmita la sensación de un estudio creativo que combina diseño, tecnología y estrategia.
+
+Concepto central:
+
+"Transformamos ideas en experiencias digitales."
+
+La marca debe sentirse como una agencia contemporánea, con una estética premium y una personalidad visual reconocible.
+
+==================================================
+2. IDENTIDAD VISUAL Y LOGOTIPO
+==================================================
+
+Existe un isotipo de AEDRIA que debe ser utilizado como referencia principal de toda la identidad.
+
+El símbolo tiene estas características:
+- Representa una A abstracta.
+- Está construido mediante formas geométricas y curvas.
+- Combina un tono blanco/perlado con un acento violeta.
+- Tiene una apariencia minimalista y futurista.
+- Se encuentra sobre un fondo oscuro.
+
+IMPORTANTE:
+Si el archivo del logo está disponible en el proyecto, buscálo y utilizalo.
+Si no está disponible, dejá preparado el espacio para incorporarlo posteriormente.
+
+No inventes otro isotipo.
+No intentes recrear el logo con texto.
+El isotipo y el nombre AEDRIA deben funcionar como elementos separados.
+
+Paleta de colores:
+
+Fondo principal:
+#090A0F
+
+Fondo secundario:
+#11121A
+
+Superficie de tarjetas:
+#171923
+
+Violeta principal:
+#9065F5
+
+Violeta claro:
+#B39AFF
+
+Blanco principal:
+#F3F1F7
+
+Gris secundario:
+#A3A1AF
+
+Bordes:
+rgba(255,255,255,0.10)
+
+Estos colores son una base. Podés ajustar ligeramente los tonos para lograr un resultado visual más equilibrado.
+
+El violeta debe utilizarse estratégicamente:
+- Detalles de botones.
+- Elementos interactivos.
+- Líneas animadas.
+- Pequeños brillos.
+- Degradados.
+- Estados activos.
+- Elementos de identidad.
+
+NO quiero que toda la web sea violeta.
+El color principal debe seguir siendo el negro carbón.
+
+==================================================
+3. TIPOGRAFÍA
+==================================================
+
+La tipografía tiene que ser parte fundamental del diseño.
+
+Utilizá una combinación moderna.
+
+Para títulos:
+Space Grotesk, Geist o una alternativa similar.
+
+Para textos:
+Inter, Manrope o Geist Sans.
+
+Características:
+- Títulos grandes.
+- Jerarquías muy claras.
+- Interlineados cuidados.
+- Textos secundarios más pequeños.
+- Buena legibilidad.
+- Composiciones editoriales.
+
+Los títulos principales tienen que tener presencia.
+
+No utilices tipografías demasiado futuristas o difíciles de leer.
+
+Utilizá tamaños fluidos mediante clamp() para adaptar los títulos a diferentes pantallas.
+
+==================================================
+4. DIRECCIÓN ARTÍSTICA
+==================================================
+
+Quiero una mezcla de:
+
+- Minimalismo premium.
+- Diseño editorial.
+- Tecnología contemporánea.
+- Estética de estudio creativo.
+- Composiciones asimétricas.
+- Espacios negativos amplios.
+- Elementos gráficos abstractos.
+- Detalles violetas.
+- Animaciones sofisticadas.
+
+La página debe tener profundidad visual.
+
+No quiero que todas las secciones sean simplemente rectángulos con bordes redondeados.
+
+Alterná:
+- Secciones con fondos oscuros.
+- Composiciones abiertas.
+- Tarjetas grandes.
+- Elementos flotantes.
+- Tipografía protagonista.
+- Mockups de páginas web.
+- Líneas divisorias finas.
+- Pequeños detalles gráficos.
+
+Podés incorporar gradientes radiales muy sutiles en el fondo.
+
+También podés utilizar formas abstractas que recuerden al isotipo de AEDRIA, especialmente curvas y trazos que sugieran movimiento.
+
+No abuses del glassmorphism.
+No abuses de las sombras.
+No utilices emojis como decoración.
+No utilices imágenes de stock genéricas de personas trabajando en computadoras.
+
+La web debe parecer diseñada específicamente para AEDRIA.
+
+==================================================
+5. ESTRUCTURA GENERAL DEL SITIO
+==================================================
+
+Desarrollá una landing page completa, con navegación mediante scroll.
+
+La página debe contener las siguientes secciones:
+
+01. NAVBAR
+02. HERO
+03. MARQUEE / MANIFIESTO
+04. PRESENTACIÓN DE AEDRIA
+05. SERVICIOS
+06. PROYECTOS DESTACADOS
+07. PROCESO DE TRABAJO
+08. DIFERENCIALES
+09. CTA FINAL
+10. CONTACTO
+11. FOOTER
+
+No todas las secciones deben tener la misma composición.
+
+Cada una tiene que tener su propio ritmo visual.
+
+==================================================
+6. NAVBAR
+==================================================
+
+Crear una navegación minimalista y elegante.
+
+Elementos:
+
+- Isotipo de AEDRIA a la izquierda.
+- Nombre AEDRIA en tipografía, independiente del isotipo.
+- Links de navegación.
+- Botón de contacto.
+
+Links:
+Inicio
+Nosotros
+Servicios
+Proyectos
+Proceso
+Contacto
+
+Diseño:
+
+Navbar inicialmente transparente.
+
+Al comenzar el scroll:
+- Aplicar un fondo oscuro semitransparente.
+- Activar backdrop blur.
+- Agregar un borde inferior sutil.
+- Mantener una altura compacta.
+
+Animaciones:
+- Aparición suave del navbar.
+- Hover con una línea violeta animada debajo de cada link.
+- Transiciones fluidas.
+- Botón de contacto con un efecto hover elegante.
+
+En dispositivos móviles:
+Crear un menú hamburguesa animado.
+
+El menú debe abrirse como una composición visual, no simplemente aparecer como una lista básica.
+
+Asegurar que pueda cerrarse con:
+- Botón de cierre.
+- Selección de un enlace.
+- Tecla Escape.
+
+==================================================
+7. HERO SECTION
+==================================================
+
+Esta es una de las partes más importantes de toda la web.
+
+Quiero una primera pantalla impactante.
+
+Debe ocupar prácticamente toda la altura visible del navegador.
+
+Composición sugerida:
+
+En la parte superior:
+Una pequeña etiqueta:
+
+DIGITAL STUDIO / ARGENTINA
+
+Título principal:
+
+"Las ideas merecen una presencia extraordinaria."
+
+El título debe ser muy grande, con una jerarquía visual fuerte.
+
+Podés resaltar una palabra utilizando el violeta de AEDRIA.
+
+Debajo:
+
+"Diseñamos y desarrollamos experiencias digitales que conectan marcas con personas."
+
+Botones:
+
+[Explorar proyectos]
+[Hablemos de tu idea]
+
+Incluir una pequeña indicación para hacer scroll.
+
+ELEMENTO VISUAL PRINCIPAL:
+
+No quiero que el hero sea solamente texto sobre un fondo negro.
+
+Necesito un elemento visual protagonista relacionado con la identidad de AEDRIA.
+
+Podés utilizar el isotipo abstracto como inspiración para crear una composición 3D o una figura geométrica animada.
+
+Ideas:
+- Un símbolo abstracto construido mediante curvas.
+- Un arco luminoso violeta.
+- Una figura geométrica con profundidad.
+- Una línea que dibuje una trayectoria.
+- Un objeto abstracto que reaccione suavemente al movimiento del cursor.
+
+El elemento debe integrarse con el diseño y no parecer una imagen decorativa colocada al azar.
+
+ANIMACIONES DEL HERO:
+
+Al cargar la página:
+
+1. El fondo aparece suavemente.
+2. El isotipo se revela mediante una animación de máscara o trazado.
+3. La etiqueta superior aparece con un pequeño desplazamiento.
+4. El título aparece por palabras, en secuencia.
+5. El texto secundario aparece después.
+6. Los botones entran con un pequeño fade-up.
+7. El elemento visual se anima lentamente.
+
+Quiero una entrada elegante, no una animación exagerada.
+
+El elemento visual puede tener un movimiento continuo muy sutil.
+
+También puede reaccionar ligeramente al mouse en escritorio.
+
+==================================================
+8. MARQUEE / MANIFIESTO
+==================================================
+
+Crear una sección horizontal con texto que se mueva continuamente.
+
+Texto:
+
+DISEÑO DIGITAL
+CREATIVIDAD
+DESARROLLO WEB
+INNOVACIÓN
+EXPERIENCIAS DIGITALES
+
+Utilizar tipografía grande.
+
+El movimiento debe ser horizontal, continuo y fluido.
+
+Incorporar pequeños símbolos geométricos violetas entre las palabras.
+
+No debe sentirse como un banner publicitario.
+
+==================================================
+9. PRESENTACIÓN DE AEDRIA
+==================================================
+
+Crear una sección editorial para explicar la filosofía del estudio.
+
+Etiqueta:
+01 / ABOUT AEDRIA
+
+Título:
+
+"No hacemos páginas por hacer. Creamos experiencias con intención."
+
+Texto:
+
+"Cada marca tiene algo que contar. Nuestro trabajo consiste en transformar esa idea en una experiencia digital clara, atractiva y funcional.
+
+Combinamos diseño, tecnología y estrategia para construir sitios web que no solo se vean bien, sino que también tengan un propósito."
+
+Quiero una composición asimétrica.
+
+Una parte debe contener el texto.
+
+La otra parte puede incluir:
+- El isotipo en gran tamaño.
+- Una composición abstracta.
+- Líneas animadas.
+- Elementos gráficos que conecten entre sí.
+
+Agregar pequeñas etiquetas como:
+
+DESIGN
+STRATEGY
+DEVELOPMENT
+
+Animación:
+
+Al entrar en viewport:
+- El título aparece progresivamente.
+- Las palabras importantes pueden resaltarse.
+- Las líneas gráficas se dibujan.
+- El símbolo puede rotar o desplazarse lentamente.
+
+==================================================
+10. SERVICIOS
+==================================================
+
+Etiqueta:
+02 / WHAT WE DO
+
+Título:
+
+"Todo empieza con una buena idea. Nosotros la llevamos más lejos."
+
+Crear tres tarjetas principales.
+
+SERVICIO 01:
+
+Diseño y desarrollo web.
+
+Descripción:
+"Páginas web personalizadas que combinan diseño, funcionalidad y rendimiento para representar tu marca y conectar con tus clientes."
+
+Características:
+- Diseño personalizado.
+- Adaptación a dispositivos.
+- Optimización de rendimiento.
+- SEO técnico básico.
+
+SERVICIO 02:
+
+Landing pages.
+
+Descripción:
+"Experiencias enfocadas en una acción concreta. Diseñadas para captar la atención, comunicar una propuesta y generar consultas."
+
+Características:
+- Diseño orientado a conversión.
+- Estructura estratégica.
+- Formularios y contacto.
+- Optimización mobile.
+
+SERVICIO 03:
+
+E-commerce.
+
+Descripción:
+"Tiendas online pensadas para mostrar tus productos, facilitar las compras y ofrecer una experiencia de navegación clara."
+
+Características:
+- Catálogo de productos.
+- Diseño personalizado.
+- Experiencia de compra.
+- Integraciones según proyecto.
+
+DISEÑO:
+
+No quiero tres tarjetas idénticas.
+
+Cada servicio puede tener:
+- Un número grande.
+- Un icono abstracto propio.
+- Una descripción.
+- Una pequeña representación visual.
+
+Las tarjetas deben tener interacciones al pasar el cursor.
+
+Ejemplo:
+- Borde que se ilumina suavemente.
+- Número que cambia de color.
+- Elemento gráfico que se desplaza.
+- Fondo que cambia sutilmente.
+
+Las animaciones tienen que ser refinadas y rápidas.
+
+En móvil, deben funcionar sin depender del hover.
+
+==================================================
+11. PROYECTOS DESTACADOS / PORTFOLIO
+==================================================
+
+Etiqueta:
+03 / SELECTED WORK
+
+Título:
+
+"Algunas ideas llevadas a la realidad."
+
+Esta sección debe tener mucho protagonismo visual.
+
+Quiero mostrar proyectos en formato editorial, con mockups grandes.
+
+Crear tres proyectos conceptuales iniciales:
+
+PROYECTO 01:
+Marca gastronómica.
+
+Tipo:
+Website / Gastronomy.
+
+Representación visual:
+Una página web de un restaurante o cafetería con una estética cuidada.
+
+PROYECTO 02:
+Marca personal.
+
+Tipo:
+Portfolio / Personal Brand.
+
+Representación visual:
+Un sitio moderno para un profesional o creador de contenido.
+
+PROYECTO 03:
+Tienda online.
+
+Tipo:
+E-commerce / Digital Store.
+
+Representación visual:
+Una tienda de productos con una interfaz moderna.
+
+IMPORTANTE:
+
+Estos proyectos son DEMOSTRACIONES CONCEPTUALES.
+
+No inventes clientes reales, testimonios, resultados comerciales ni estadísticas.
+
+Cada proyecto debe estar claramente identificado como concepto o demo hasta que sea reemplazado por trabajos reales.
+
+No utilices simples imágenes rectangulares de stock.
+
+Quiero mockups visuales de sitios web:
+- Ventanas de navegador.
+- Interfaces propias.
+- Capturas simuladas.
+- Elementos de UI.
+- Composiciones con profundidad.
+
+Los mockups deben verse atractivos y consistentes.
+
+INTERACCIONES:
+
+- Hover con zoom sutil.
+- Movimiento parallax muy leve.
+- Aparición progresiva de las tarjetas.
+- Etiquetas que aparecen al pasar el cursor.
+- Botón para explorar cada concepto.
+
+En desktop, se pueden utilizar tarjetas alternadas de diferentes alturas y anchos.
+
+En móvil, convertirlas en una lista vertical.
+
+==================================================
+12. PROCESO DE TRABAJO
+==================================================
+
+Etiqueta:
+04 / THE PROCESS
+
+Título:
+
+"De la idea al resultado."
+
+Crear una sección que explique cuatro etapas:
+
+01 — Descubrimiento.
+
+"Conocemos tu negocio, tus objetivos y lo que necesitás comunicar."
+
+02 — Dirección y diseño.
+
+"Definimos la estructura, la identidad visual y la experiencia que tendrá tu sitio."
+
+03 — Desarrollo.
+
+"Transformamos el diseño en una web funcional, rápida y adaptable."
+
+04 — Lanzamiento.
+
+"Probamos, ajustamos y dejamos todo preparado para publicar."
+
+DISEÑO:
+
+Crear un timeline visual.
+
+Puede ser vertical o horizontal según el tamaño de pantalla.
+
+Cada etapa debe tener:
+- Número grande.
+- Título.
+- Descripción.
+- Elemento visual pequeño.
+
+Agregar una línea central que se vaya dibujando mientras el usuario hace scroll.
+
+Los números pueden iluminarse progresivamente cuando su etapa entra en pantalla.
+
+==================================================
+13. DIFERENCIALES
+==================================================
+
+Etiqueta:
+05 / WHY AEDRIA
+
+Título:
+
+"El detalle también forma parte del resultado."
+
+Crear una composición con cuatro diferenciales:
+
+01. Diseño personalizado.
+Cada proyecto se diseña según la identidad y las necesidades de cada marca.
+
+02. Experiencia adaptable.
+Sitios preparados para funcionar correctamente en celulares, tablets y computadoras.
+
+03. Rendimiento.
+Priorizamos tiempos de carga, optimización y una estructura eficiente.
+
+04. Comunicación directa.
+Acompañamiento durante el desarrollo, con comunicación clara y decisiones compartidas.
+
+La sección debe ser visualmente diferente de servicios.
+
+Podés usar una grilla asimétrica o una composición de cuatro bloques con distintos tamaños.
+
+==================================================
+14. CTA FINAL
+==================================================
+
+Crear una sección visualmente impactante antes del contacto.
+
+Título:
+
+"Tu próxima gran idea puede empezar acá."
+
+Texto:
+
+"Contanos qué estás imaginando. Nosotros te ayudamos a transformarlo en una experiencia digital."
+
+Botón principal:
+
+"Hablemos de tu proyecto"
+
+Diseño:
+
+- Fondo oscuro.
+- Una gran figura abstracta inspirada en el isotipo.
+- Halo violeta muy sutil.
+- Mucho espacio negativo.
+- Tipografía grande.
+
+La figura debe tener una animación lenta y elegante.
+
+El botón puede tener un efecto magnético moderado en escritorio.
+
+==================================================
+15. CONTACTO
+==================================================
+
+Título:
+
+"Construyamos algo juntos."
+
+Texto:
+
+"Estamos listos para conocer tu proyecto."
+
+Crear un formulario moderno con estos campos:
+
+- Nombre.
+- Email.
+- Nombre del negocio o marca.
+- Servicio que necesita.
+- Descripción del proyecto.
+
+El selector de servicio debe incluir:
+- Página web.
+- Landing page.
+- E-commerce.
+- Otro.
+
+Agregar validaciones reales.
+
+El botón de envío debe tener estados:
+- Normal.
+- Enviando.
+- Enviado.
+- Error.
+
+IMPORTANTE:
+
+No simules que el mensaje se envió correctamente si no existe una integración funcional.
+
+Prepará el formulario para conectarlo con un servicio real.
+
+Dejá la configuración de email, WhatsApp y redes sociales en un archivo central.
+
+También agregar un botón de WhatsApp, pero dejar el número editable mediante configuración.
+
+No inventes números de contacto ni redes sociales.
+
+==================================================
+16. FOOTER
+==================================================
+
+Crear un footer minimalista.
+
+Incluir:
+- Isotipo.
+- Nombre AEDRIA.
+- Descriptor Digital Studio.
+- Links principales.
+- Links a redes sociales configurables.
+- Email configurable.
+- Copyright dinámico.
+
+Agregar una frase final:
+
+"Built with intention."
+
+El footer debe tener una composición amplia, elegante y limpia.
+
+==================================================
+17. ANIMACIONES Y MOVIMIENTO
+==================================================
+
+ESTE PUNTO ES MUY IMPORTANTE.
+
+Quiero que el sitio tenga vida.
+
+No quiero una página estática en la que simplemente aparezcan bloques al hacer scroll.
+
+Utilizá animaciones de manera intencional.
+
+Si el proyecto utiliza React, podés utilizar Motion / Framer Motion.
+
+También podés usar CSS animations e Intersection Observer cuando sea más eficiente.
+
+Animaciones requeridas:
+
+A. PAGE LOAD
+
+- Entrada progresiva de los elementos.
+- Reveal del isotipo.
+- Aparición secuencial del hero.
+- Transiciones suaves.
+
+B. SCROLL REVEALS
+
+- Fade-up.
+- Máscaras de texto.
+- Reveal de imágenes.
+- Aparición escalonada de tarjetas.
+- Líneas que se dibujan.
+
+C. HOVER INTERACTIONS
+
+- Botones con respuesta visual.
+- Tarjetas con desplazamiento sutil.
+- Links con subrayados animados.
+- Elementos que cambian suavemente de color.
+- Iconos que se mueven unos píxeles.
+
+D. SCROLL EFFECTS
+
+- Navbar que cambia con el scroll.
+- Progreso de lectura discreto.
+- Elementos que se desplazan a distintas velocidades.
+- Secciones con transiciones visuales.
+- Timeline que avanza con el scroll.
+
+E. MICROINTERACTIONS
+
+- Botones con estados hover, active y focus.
+- Inputs con estados activos.
+- Acordeones animados si agregás preguntas frecuentes.
+- Indicadores de navegación.
+
+IMPORTANTE:
+
+No quiero animaciones por todos lados sin sentido.
+
+Cada movimiento debe tener un propósito.
+
+La velocidad de las animaciones debe sentirse premium.
+
+Utilizá curvas de easing suaves.
+
+Evitá:
+- Rebotes exagerados.
+- Zooms bruscos.
+- Giros innecesarios.
+- Animaciones demasiado lentas.
+- Efectos que dificulten la lectura.
+
+Accesibilidad:
+
+Respetar prefers-reduced-motion.
+
+Si el usuario tiene activada la reducción de movimiento, ofrecer una versión más sencilla de las transiciones.
+
+En dispositivos móviles, reducir el uso de parallax y efectos pesados.
+
+==================================================
+18. TECNOLOGÍA Y ARQUITECTURA
+==================================================
+
+Primero inspeccioná todos los archivos del proyecto.
+
+No elimines configuraciones ni archivos existentes sin necesidad.
+
+Si ya existe un stack definido, respetalo y adaptá la implementación.
+
+Si el proyecto está vacío, utilizá preferentemente:
+
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Motion para animaciones.
+
+Mantené el proyecto ordenado.
+
+Separá los componentes por secciones.
+
+Una posible organización:
+
+src/
+  app/
+  components/
+    Navbar.tsx
+    Hero.tsx
+    Marquee.tsx
+    About.tsx
+    Services.tsx
+    Projects.tsx
+    Process.tsx
+    Differentials.tsx
+    FinalCTA.tsx
+    Contact.tsx
+    Footer.tsx
+  data/
+    projects.ts
+    services.ts
+  config/
+    site.ts
+  styles/
+
+Adaptá esta estructura a la arquitectura real del proyecto.
+
+No crees componentes innecesariamente complejos.
+
+Centralizá los datos editables.
+
+==================================================
+19. RESPONSIVE DESIGN
+==================================================
+
+La página debe estar perfectamente adaptada a:
+
+- 360px.
+- 390px.
+- 430px.
+- 768px.
+- 1024px.
+- 1440px.
+- 1920px.
+
+No quiero simplemente reducir el diseño desktop.
+
+En móvil:
+- Reorganizar composiciones.
+- Adaptar títulos.
+- Reubicar elementos gráficos.
+- Ajustar espacios.
+- Simplificar animaciones.
+- Evitar desbordamientos horizontales.
+- Hacer que los botones sean fáciles de tocar.
+
+El sitio debe sentirse diseñado para móviles, no solamente adaptado.
+
+==================================================
+20. SEO Y RENDIMIENTO
+==================================================
+
+Implementar:
+
+- Titles y descriptions personalizados.
+- Metadatos Open Graph.
+- Favicon.
+- Estructura semántica.
+- Jerarquía correcta de encabezados.
+- Alt en imágenes.
+- URLs limpias.
+- Sitemap cuando corresponda.
+- Robots.txt.
+- Datos estructurados apropiados, sin inventar información comercial.
+
+Optimizar:
+
+- Imágenes.
+- Fuentes.
+- Carga de componentes.
+- Animaciones.
+- Recursos externos.
+
+No cargues librerías innecesarias.
+
+Evitar layout shifts.
+
+No sacrificar rendimiento por animaciones.
+
+Objetivo: una experiencia rápida y fluida.
+
+==================================================
+21. REGLAS CREATIVAS IMPORTANTES
+==================================================
+
+NO copies literalmente ninguna de las webs de referencia.
+
+No copies:
+- Sus textos.
+- Su composición exacta.
+- Su identidad visual.
+- Sus ilustraciones.
+- Sus animaciones específicas.
+- Sus estructuras gráficas reconocibles.
+
+Tomá únicamente referencias generales de calidad:
+
+De Kairos:
+- Claridad comercial.
+- Servicios bien explicados.
+- Proyectos.
+- Proceso.
+- Contacto sencillo.
+
+De Noema:
+- Narrativa de marca.
+- Diseño editorial.
+- Animaciones.
+- Identidad visual.
+- Presentación cuidada del portfolio.
+
+La identidad de AEDRIA debe ser propia.
+
+Tampoco quiero:
+- Una web que parezca hecha con una plantilla de ThemeForest.
+- Tarjetas genéricas repetidas.
+- Gradientes exagerados.
+- Dibujos aleatorios.
+- Exceso de efectos glass.
+- Secciones rellenas solamente para alargar la página.
+- Testimonios inventados.
+- Estadísticas falsas.
+- Clientes ficticios presentados como reales.
+
+Quiero una web que pueda mostrarle a un cliente y que transmita confianza desde el primer segundo.
+
+==================================================
+22. FORMA DE TRABAJO
+==================================================
+
+Trabajá directamente sobre el proyecto.
+
+Antes de empezar:
+1. Revisá los archivos existentes.
+2. Identificá el stack.
+3. Entendé la estructura.
+4. Localizá el isotipo si está disponible.
+
+Después:
+1. Definí la dirección visual.
+2. Construí la estructura general.
+3. Desarrollá las secciones.
+4. Implementá las animaciones.
+5. Adaptá el diseño a dispositivos móviles.
+6. Revisá accesibilidad y rendimiento.
+7. Ejecutá el proyecto.
+8. Corregí errores.
+
+No te quedes en una maqueta incompleta.
+
+No dejes botones sin funcionalidad.
+
+No dejes enlaces que no lleven a ningún sitio.
+
+No declares terminado el trabajo si la aplicación no compila.
+
+Si faltan datos reales, centralizá los valores pendientes para que puedan editarse fácilmente.
+
+Al terminar, indicame:
+- Qué archivos creaste o modificaste.
+- Qué tecnologías utilizaste.
+- Cómo ejecutar el proyecto.
+- Qué datos debo completar.
+- Qué funcionalidades necesitan una integración externa.
+
+OBJETIVO FINAL:
+
+Crear el sitio web oficial de AEDRIA, un Digital Studio con una identidad minimalista, elegante, tecnológica y creativa.
+
+Quiero una web con una estética oscura, acentos violetas, tipografía protagonista, mockups visuales, composiciones originales y animaciones fluidas.
+
+Debe sentirse como un estudio digital de alto nivel.
+
+No quiero una copia de Kairos ni de Noema.
+
+Quiero que alguien entre a AEDRIA y recuerde la experiencia visual.
